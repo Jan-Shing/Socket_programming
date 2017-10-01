@@ -1,0 +1,2 @@
+Display: display.c csapp.h
+	cc  -D_BSD_SOURCE -D_DEFAULT_SOURCE -c display.c -o Display
